@@ -1,56 +1,64 @@
 <div align="center">
 
-# 👨‍💻 Sharwan | Demon
+# 👾 SHARWAN SUNAR
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ethical+Hacker;Cybersecurity+Researcher;Python+Developer;CTF+Player;Linux+Power+User" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Ethical+Hacker;Cybersecurity+Researcher;Python+Developer;Linux+Power+User;CTF+Player;Malware+Analysis+Learner" />
 
-<img src="https://komarev.com/ghpvc/?username=Sharwan69&style=for-the-badge&color=blueviolet"/>
+<img src="https://komarev.com/ghpvc/?username=Sharwan69&style=for-the-badge&color=blueviolet" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 🧠 ABOUT ME
 
 ```yaml
-Name: Sharwan
+Name: Sharwan Sunar
 Username: Sharwan69
+Location: Nepal 🇳🇵
 Focus: Cybersecurity & Ethical Hacking
-Languages: Python, C, SQL
-Learning: Malware Analysis, Digital Forensics
-OS: Kali Linux
-Hobbies: CTFs, Linux, Security Research
+Learning:
+  - Malware Analysis
+  - Digital Forensics
+  - Web Security
+  - Linux Internals
+Languages:
+  - Python
+  - C
+  - SQL
+Operating System:
+  - Kali Linux
+Hobbies:
+  - CTF Challenges
+  - Security Research
+  - Building Tools
 ```
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 TECH STACK
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,linux,flask,mysql,git,github,vscode,bash,c" />
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GITHUB STATS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharwan69&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sharwan69&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharwan69&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sharwan69&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -60,33 +68,63 @@ Hobbies: CTFs, Linux, Security Research
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sharwan69&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sharwan69&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 
 </div>
 
 ---
 
-# ⚡ Current Goals
-
-* 🛡️ Become Professional Cybersecurity Expert
-* 🧠 Master Malware Analysis
-* 🌐 Build Secure Applications
-* 🏴‍☠️ Improve CTF Skills
-* 🚀 Create Advanced Security Tools
-
----
-
-# 🌐 Connect With Me
+# ⚡ CURRENT GOALS
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:sharwansunar91@gmail.com)
+| Goal                            | Status         |
+| ------------------------------- | -------------- |
+| 🛡️ Become Cybersecurity Expert | 🔄 In Progress |
+| 🧠 Master Malware Analysis      | 🔄 Learning    |
+| 🌐 Build Secure Apps            | 🚀 Active      |
+| 🏴‍☠️ Improve CTF Skills        | ⚡ Daily        |
+| 🔥 Create Security Tools        | 💻 Ongoing     |
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://linkedin.com/in/sharwan-sunar-5782a436b">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sharwansunar91@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💀 RANDOM DEV QUOTE
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal\&theme=tokyonight)
 
 </div>
 
@@ -94,9 +132,15 @@ Hobbies: CTFs, Linux, Security Research
 
 <div align="center">
 
-## 🐍 Contribution Snake
+## ⚡ PROFILE POWER LEVEL
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
+```text
+Cybersecurity   ████████████  90%
+Python          ██████████░░  80%
+Linux           ██████████░░  85%
+CTF Skills      █████████░░░  75%
+Web Security    ████████░░░░  70%
+```
 
 </div>
 
@@ -104,6 +148,8 @@ Hobbies: CTFs, Linux, Security Research
 
 <div align="center">
 
-⭐ Thanks for visiting my profile ⭐
+# ⭐ THANKS FOR VISITING ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=120&section=footer"/>
 
 </div>
