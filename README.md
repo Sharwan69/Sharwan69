@@ -29,6 +29,7 @@ Languages:
   - HTML
 Operating System:
   - Kali Linux
+  - Windows
 Hobbies:
   - CTF Challenges
   - Security Research
