@@ -34,18 +34,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sharwan69\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharwan69\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
 ## 🔥 Current Goals
 
 * 🚀 Become a professional cybersecurity expert
