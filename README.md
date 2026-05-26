@@ -1,49 +1,86 @@
-# Hi there 👋 I'm Sharwan
-
 <div align="center">
 
-### 🚀 Ethical Hacker | Python Developer | Cybersecurity Learner
+# 👨‍💻 Sharwan | Demon
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Python+Developer;CTF+Player;Linux+User;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Ethical+Hacker;Cybersecurity+Researcher;Python+Developer;CTF+Player;Linux+Power+User" />
+
+<img src="https://komarev.com/ghpvc/?username=Sharwan69&style=for-the-badge&color=blueviolet"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 💫 About Me
 
-* 🔭 Currently working on **Cybersecurity & Ethical Hacking**
-* 🌱 Learning **Python, Flask, Linux, Malware Analysis**
-* 💻 Interested in **Web Security & Digital Forensics**
-* 🛡️ Practicing on **CTFs & Labs**
-* ⚡ Fun fact: I love breaking and fixing systems 😎
+```yaml
+Name: Sharwan
+Username: Sharwan69
+Focus: Cybersecurity & Ethical Hacking
+Languages: Python, C, SQL
+Learning: Malware Analysis, Digital Forensics
+OS: Kali Linux
+Hobbies: CTFs, Linux, Security Research
+```
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
 ---
 
-## 🔥 Current Goals
+# 📊 GitHub Statistics
 
-* 🚀 Become a professional cybersecurity expert
-* 🧠 Master malware analysis
-* 🏴‍☠️ Improve CTF skills
-* 🌐 Build secure web applications
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharwan69&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharwan69&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharwan69&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sharwan69&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+---
+
+# ⚡ Current Goals
+
+* 🛡️ Become Professional Cybersecurity Expert
+* 🧠 Master Malware Analysis
+* 🌐 Build Secure Applications
+* 🏴‍☠️ Improve CTF Skills
+* 🚀 Create Advanced Security Tools
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -57,9 +94,9 @@
 
 <div align="center">
 
-### 👀 Visitor Count
+## 🐍 Contribution Snake
 
-![](https://komarev.com/ghpvc/?username=Sharwan69\&color=blueviolet\&style=for-the-badge)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -67,6 +104,6 @@
 
 <div align="center">
 
-⭐ *Thanks for visiting my profile!* ⭐
+⭐ Thanks for visiting my profile ⭐
 
 </div>
