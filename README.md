@@ -26,6 +26,7 @@ Languages:
   - Python
   - C
   - SQL
+  - HTML
 Operating System:
   - Kali Linux
 Hobbies:
